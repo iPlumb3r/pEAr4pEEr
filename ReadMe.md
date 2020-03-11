@@ -3,7 +3,8 @@ The pEAr4pEEr Initiative
 
 Description
 -
-P... Enterprise Architecture Reference for P2P Extended Ecosystem Partners where the very 1st "P" could stand for : 
+P... Enterprise Architecture Reference for P2P Extended Ecosystem Partners ...   
+... where the very 1st "P" could stand for : 
 * Possible 
 * Probable
 * Potential
