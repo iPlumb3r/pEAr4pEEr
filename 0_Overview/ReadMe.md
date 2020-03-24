@@ -3,7 +3,7 @@ Overview
 
 Motivations (Why ?)
 -
-4 key reasons for using an enterprise architecture framework
+4 key reasons for using an "Enterprise Architecture" framework
 ![alt text](https://github.com/iPlumb3r/pEAr4pEEr/blob/master/images/Overview_Why.png)
 
 
