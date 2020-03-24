@@ -30,7 +30,7 @@ Each concern is detailed thanks to a Semantic Concept Model
 
 Usage 
 -
-Allow to analyze universe of discourse / document about IS stuff
+Allow to analyze universe of discourse / document about "misc" (business / IS / IT) stuff
 ![alt text](https://github.com/iPlumb3r/pEAr4pEEr/blob/master/images/Overview_Usage_1_2020-03-24.png)
 
 Allow to define “who is responsible of what”
