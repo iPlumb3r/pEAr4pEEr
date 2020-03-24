@@ -8,3 +8,12 @@ Main relationship between concerns
 -
 If we should only 1 semantic between Business concern and Others concerns :
 ![alt text](https://github.com/iPlumb3r/pEAr4pEEr/blob/master/images/What_RelationshipBetweenConcerns.png)
+
+
+Synthesis
+-
+Semantic Concept Model of the Business concerns (Why & What aspects) :
+![alt text](https://github.com/iPlumb3r/pEAr4pEEr/blob/master/images/What_SCM_WhatAndWhy.png)
+
+To be completed ...
+-
