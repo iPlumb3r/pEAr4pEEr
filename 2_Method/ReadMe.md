@@ -15,7 +15,7 @@ Overview of the approach
 
 Framework selection
 -
-All selected framwork a about "How to design something ?"
+All selected frameworks are about "How to design something ?"
 ![alt text](https://github.com/iPlumb3r/pEAr4pEEr/blob/master/images/How_FrameworkSelection.png)
 
 In each framework, we plan to integrate what is relevant for designing "something".   
