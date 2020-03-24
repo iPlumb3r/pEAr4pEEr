@@ -10,6 +10,10 @@ The basic structure is made of 7 concerns :
 and hereafter the meaning of each concerns :
 ![alt text](https://github.com/iPlumb3r/pEAr4pEEr/blob/master/images/How_ConcernsDefinition_2020-03-24.png)
 
+Each concern could be divided in sub-concerns
+![alt text](https://github.com/iPlumb3r/pEAr4pEEr/blob/master/images/Overview_What_2_2020-03-24.png)
+
+
 Instanciation
 -
 Definition are fine, but it is better if we can explain by giving some exemples of "things" belonging to those concerns ;-)
