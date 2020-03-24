@@ -37,6 +37,18 @@ Some key functions seen at business level & at functional level :
 ![alt text](https://github.com/iPlumb3r/pEAr4pEEr/blob/master/images/What_Instanciation_6.png)
 
 
+Zoom on the Business Concern 
+-
+Let's zoom on the Business Concern
+![alt text](https://github.com/iPlumb3r/pEAr4pEEr/blob/master/images/What_Business_Zoom.png)
+
+How to pave the business perimeter/scope
+![alt text](https://github.com/iPlumb3r/pEAr4pEEr/blob/master/images/What_Business_Scope.png)
+
+
+
+
+
 
 
 
