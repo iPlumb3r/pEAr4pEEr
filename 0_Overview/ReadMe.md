@@ -7,9 +7,9 @@ Motivations (Why ?)
 ![alt text](https://github.com/iPlumb3r/pEAr4pEEr/blob/master/images/Overview_Why.png)
 
 
-Benchmark & Best-Of-Breed Approach (How ?)
+Method/Approach (How ?)
 -
-This EA framework is issued from a “Best of Breed” approach
+This EA framework is issued from a Benchmark followed by “Best-Of-Breed” approach
 ![alt text](https://github.com/iPlumb3r/pEAr4pEEr/blob/master/images/Overview_How_1_2020-03-24.png)
 
 Concerns mapping between this EA Framework & some others ones
