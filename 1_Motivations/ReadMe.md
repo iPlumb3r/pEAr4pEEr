@@ -15,7 +15,7 @@ Current PLM practices doesn’t handle needs at the right level !
 
 Content-Driven VS Document-Driven Information
 -
-A PLM project produces many document-driven deliverables ...
+A PLM project produces many document-based deliverables ...
 ![alt text](https://github.com/iPlumb3r/pEAr4pEEr/blob/master/images/Why_B1.png)
 
 ... And all those deliverables are strongly interlinked together
