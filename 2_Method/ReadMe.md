@@ -80,4 +80,4 @@ About "why to separate Business concerns from others concerns ?" :
 </table>
 
 Business, Organization & Project concerns on 1 picture 
-![alt text](https://github.com/iPlumb3r/pEAr4pEEr/blob/master/images/HHow_SoC_BizOrgPrj.png)
+![alt text](https://github.com/iPlumb3r/pEAr4pEEr/blob/master/images/How_SoC_BizOrgPrj.png)
