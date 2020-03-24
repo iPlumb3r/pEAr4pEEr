@@ -27,7 +27,7 @@ So, key "ingredients" to integrate in our own EA framework are :
 * MDA, Merise : Use "logical / technical dichotomy (inside "solution" concerns)
 
 For a better understanding of the benchmark, here is a definition of each concern :
-![alt text](https://github.com/iPlumb3r/pEAr4pEEr/blob/master/images/How_ConcernsDefinition.png)
+![alt text](https://github.com/iPlumb3r/pEAr4pEEr/blob/master/images/How_ConcernsDefinition_2020-03-24.png)
 
 Concerns mapping between this EA Framework & some others ones
 ![alt text](https://github.com/iPlumb3r/pEAr4pEEr/blob/master/images/Overview_How_2.png)
