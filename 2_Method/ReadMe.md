@@ -22,9 +22,9 @@ In each framework, we plan to integrate what is relevant for designing "somethin
 
 So, key "ingredients" to integrate in our own EA framework are :    
 * Praxème : Apply the "Separation of Concerns" Principle "everywhere
-* Triz, Babok : Integrate the "need VS Solution" dichotomy
-* Triz : Integrate the "generic VS specific" dichotomy
-* MDA, Merise : Use "logical / technical dichotomy (inside "solution" concerns)
+* Triz & Babok : Integrate the "Need VS Solution" dichotomy
+* Triz : Integrate the "Generic VS Specific" dichotomy
+* MDA & Merise : Use "Logical VS Technical" dichotomy (inside "Solution" concern)
 
 For a better understanding of the benchmark, here is a definition of each concern :
 ![alt text](https://github.com/iPlumb3r/pEAr4pEEr/blob/master/images/How_ConcernsDefinition_2020-03-24.png)
