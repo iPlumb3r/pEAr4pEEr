@@ -6,7 +6,7 @@ The goal of this section is to provide a Semantic Concept Model for the whole En
 
 Main relationship between concerns 
 -
-If we should only 1 semantic between Business concern and Others concerns :
+If we should uses only 1 semantic between Business concern and Others concerns :
 ![alt text](https://github.com/iPlumb3r/pEAr4pEEr/blob/master/images/What_RelationshipBetweenConcerns.png)
 
 
