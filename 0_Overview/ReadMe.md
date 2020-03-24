@@ -22,7 +22,7 @@ The basic structure is made of 7 concerns
 ![alt text](https://github.com/iPlumb3r/pEAr4pEEr/blob/master/images/Overview_What_1.png)
 
 Main sub-concerns of each concern
-![alt text](https://github.com/iPlumb3r/pEAr4pEEr/blob/master/images/Overview_What_2.png)
+![alt text](https://github.com/iPlumb3r/pEAr4pEEr/blob/master/images/Overview_What_2_2020-03-24.png)
 
 Each concern is detailed thanks to a Semantic Concept Model
 ![alt text](https://github.com/iPlumb3r/pEAr4pEEr/blob/master/images/Overview_What_3.png)
