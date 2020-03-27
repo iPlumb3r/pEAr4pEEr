@@ -15,13 +15,23 @@ _Note : EBR ID allows to semantically navigate in the <a href="https://www.topin
     </thead>
     <tbody>
         <tr>
-            <th>Initiative</th>
-            <td>P??? Enterprise Architecture Reference for P2P Extended Ecosystem Partners (pEAr4pEEr)</td>
+            <th>Name</th>
+            <td>The pEAr4pEEr Initiative</td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/1673">#1673</a></td>
+        </tr>
+        <tr>
+            <th>Description</th>
+            <td>P??? Enterprise Architecture Reference for P2P Extended Ecosystem Partners</td>
+            <td>N/A</td>
         </tr>
         <tr>
             <th>Deliverable</th>
             <td>Enterprise Architecture Model(s)</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <th>Tags</th>
+            <td>#EnterpriseArchitecture #ExtendedEnterprise #BusinessProcess #SemanticModel</td>
             <td>N/A</td>
         </tr>
         <tr>
