@@ -1,8 +1,6 @@
 #BusinessRole
 ==
-
-Prefered Label
--
+## Prefered Label
 <table>
     <thead>
         <tr>
@@ -18,8 +16,7 @@ Prefered Label
     </tbody>
 </table>
 
-Alternative Label(s)
--
+## Alternative Label(s)
 <table>
     <thead>
         <tr>
@@ -35,8 +32,7 @@ Alternative Label(s)
     </tbody>
 </table>
 
-Description
--
+## Description
 <table>
     <thead>
         <tr>
@@ -52,8 +48,7 @@ Description
     </tbody>
 </table>
 
-Comment(s)
--
+## Comment(s)
 <table>
     <thead>
         <tr>
@@ -69,9 +64,7 @@ Comment(s)
     </tbody>
 </table>
 
-Individuals
--
-
+## Individuals
 
 Some examples : 
 <table>
@@ -96,6 +89,3 @@ Some examples :
         </tr>
     </tbody>
 </table>
-
-Some more examples : <a href="https://www.topincs.com/iPlumb3rSandBox/.index?tt=1219">Samples in the SandBox EBR</a>
-
