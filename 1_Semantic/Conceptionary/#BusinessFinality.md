@@ -87,5 +87,9 @@ Some examples :
             <td>Share the govenance of the system.</td>
             <td>Partager la gouvernance du système.</td>
         </tr>
+        <tr>
+            <td>Provide meaning for any information.</td>
+            <td>Donner un sens à toute information.</td>
+        </tr>
     </tbody>
 </table>
