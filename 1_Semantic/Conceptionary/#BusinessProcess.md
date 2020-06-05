@@ -81,8 +81,8 @@ Some examples :
     </thead>
     <tbody>
         <tr>
-            <td>Process of design, industrialization and manufacturing of a product</td>
-            <td>Processus de conception, industrialisation et fabrication d'un produit</td>
+            <td>Process of design, industrialization and manufacturing of a product.</td>
+            <td>Processus de conception, industrialisation et fabrication d'un produit.</td>
         </tr>
     </tbody>
 </table>
