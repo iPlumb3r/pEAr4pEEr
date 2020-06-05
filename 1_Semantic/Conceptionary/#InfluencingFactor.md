@@ -58,8 +58,8 @@
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Allows to triggers <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinesInitiative.md">#BusinessInitiative</a>.</td>
+            <td>Permet de déclencher des <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinesInitiative.md">#BusinessInitiative</a>.</td>
         </tr>
     </tbody>
 </table>
