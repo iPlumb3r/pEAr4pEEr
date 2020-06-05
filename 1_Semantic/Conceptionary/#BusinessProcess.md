@@ -27,8 +27,8 @@
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Réseaux sémantique incarné par un ensemble de <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessActivity.md">#BusinessActivity</a> qui produisent et/ou consomment des <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessConcept.md">#BusinessConcept</a> (= <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessObject.md">#BusinessObject</a> et/ou <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessSubject.md">#BusinessSubject</a>).</td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
@@ -44,7 +44,7 @@
     <tbody>
         <tr>
             <td>Bla bla</td>
-            <td>Un processus métier, n'est pas un concept en soit, mais plûtot un ensemble de concepts en inter-relation les uns avec les autres.</td>
+            <td>Réseaux sémantique incarné par un ensemble de <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessActivity.md">#BusinessActivity</a> qui produisent et/ou consomment des <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessConcept.md">#BusinessConcept</a> (= <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessObject.md">#BusinessObject</a> et/ou <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessSubject.md">#BusinessSubject</a>).</td>
         </tr>
     </tbody>
 </table>
@@ -60,7 +60,7 @@
     <tbody>
         <tr>
             <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Un processus métier, n'est pas un concept en soit, mais plûtot un ensemble de concepts en inter-relation les uns avec les autres.</td>
         </tr>
     </tbody>
 </table>
