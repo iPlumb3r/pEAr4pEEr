@@ -77,8 +77,8 @@ Some examples :
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Presence of "Single Point Of Failure"</td>
+            <td>Présence de "Point Unique de Défaillance"</td>
         </tr>
         </tr>
     </tbody>
