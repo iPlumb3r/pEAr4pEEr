@@ -76,9 +76,12 @@ Some examples :
     </thead>
     <tbody>
         <tr>
-            <td>Systematizing the use of crypto-technologies.</td>
-            <td>Systématiser l'utilisation de crypto-technologies.</td>
+            <td>Systematizing the use of crypto-technologies for data privacy.</td>
+            <td>Systématiser l'utilisation de crypto-technologies pour la confidentialité des données.</td>
         </tr>
+        <tr>
+            <td>Systematizing the use of crypto-technologies for user authentication.</td>
+            <td>Systématiser l'utilisation de crypto-technologies pour l'authentification des utilisateurs.</td>
         </tr>
     </tbody>
 </table>
