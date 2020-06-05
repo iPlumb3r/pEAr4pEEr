@@ -59,12 +59,12 @@
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
+            <td>A business process is not an elementary notion in itself, but rather a set of notions interrelated with each other and forming a semantic network.</td>
             <td>Un processus métier, n'est pas une notion élémentaire en soit, mais plûtot un ensemble de notions en inter-relation les uns avec les autres et formant un réseau sémantique.</td>
         </tr>
         <tr>
-            <td>Bla bla</td>
-            <td>Le processues métier qui écrit "ce qui doit être réalisé" ne doit surtout PAS être confondu avec la procédure métier, qui elle décrit "comment les choses doivent être réalisées" !</td>
+            <td>The business process that describes "what needs to be done" should NOT be confused with the business process, which describes "how things need to be done"!td>
+            <td>Le processues métier qui décrit "ce qui doit être réalisé" ne doit surtout PAS être confondu avec la procédure métier, qui elle décrit "comment les choses doivent être réalisées" !</td>
         </tr>
     </tbody>
 </table>
