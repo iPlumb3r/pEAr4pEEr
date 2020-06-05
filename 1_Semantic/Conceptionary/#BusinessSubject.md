@@ -82,10 +82,10 @@ Some examples :
         </tr>
         <tr>
             <td>As Required Product/Service (represented by "Requirement specification")</td>
-            <td>Prodcuit/Service tel que requis (représenté par un "Cahier des Charges")</td>
+            <td>Produit/Service tel que requis (représenté par un "Cahier des Charges")</td>
         </tr>
         <tr>
             <td>As To Be Build Product/Service (represented by "Technical sheet")</td>
-            <td>Prodcuit/Service tel que à fabriquer (représenté par une "Fiche technique")</td>
+            <td>Produit/Service tel que à fabriquer (représenté par une "Fiche technique")</td>
     </tbody>
 </table>
