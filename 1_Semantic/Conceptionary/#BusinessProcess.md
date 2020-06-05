@@ -44,7 +44,7 @@
     <tbody>
         <tr>
             <td>Bla bla</td>
-            <td>Réseaux sémantique incarné par un ensemble de <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessActivity.md">#BusinessActivity</a> qui produisent et/ou consomment des <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessConcept.md">#BusinessConcept</a> (= <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessObject.md">#BusinessObject</a> et/ou <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessSubject.md">#BusinessSubject</a>).</td>
+            <td>Réseaux sémantique incarné par un ensemble de <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessActivity.md">#BusinessActivity</a> qui produisent et/ou consomment des <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessConcept.md">#BusinessConcept</a> (= <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessObject.md">#BusinessObject</a> et/ou <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessSubject.md">#BusinessSubject</a>). A ne surtout par confondre avec la procédure métier, qui elle décrit "comment les choses doivent être réalisées" !</td>
         </tr>
     </tbody>
 </table>
