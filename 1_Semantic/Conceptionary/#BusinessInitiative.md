@@ -76,8 +76,8 @@ Some examples :
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Systematizing the use of crypto-technologies.</td>
+            <td>Systématiser l'utilisation de crypto-technologies.</td>
         </tr>
         </tr>
     </tbody>
