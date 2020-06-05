@@ -43,8 +43,8 @@
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Ce sont des représentations - généralement documentaires - de <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessSubject.md">#BusinessSubject</a>.</td>
+            <td>Representations - usually documentary ones (=> Documentation) - of <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessSubject.md">#BusinessSubject</a>./td>
+            <td>Représentations - généralement documentaires (=> Documentation) - de <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessSubject.md">#BusinessSubject</a>.</td>
         </tr>
     </tbody>
 </table>
@@ -71,22 +71,22 @@ Some examples :
 <table>
     <thead>
         <tr>
-            <th>Individual</th>
-            <th>Type</th>
+            <th>English</th>
+            <th>French</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Passport (which documents "Person")</td>
+            <td>Passeport (qui documente une "Personne")</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Requirement specification (which represents an "As Required Prodcut/Service"</td>
+            <td>Cahier des Charges (qui représente par un "Produit/Service tel que requis")</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Technical sheet (which represents an "As To Be Build Product/Service"</td>
+            <td>Fiche technique (qui représente par un "Produit/Service tel que à fabriquer ")</td>
         </tr>
     </tbody>
 </table>
