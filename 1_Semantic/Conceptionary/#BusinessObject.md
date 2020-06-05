@@ -11,8 +11,8 @@
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Business object</td>
+            <td>Objet métier</td>
         </tr>
     </tbody>
 </table>
@@ -27,8 +27,8 @@
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Business artifact</td>
+            <td>Artefact métier</td>
         </tr>
     </tbody>
 </table>
@@ -44,7 +44,7 @@
     <tbody>
         <tr>
             <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Ce sont des représentations - généralement documentaires - de <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessSubject.md">#BusinessSubject</a>.</td>
         </tr>
     </tbody>
 </table>
@@ -60,7 +60,7 @@
     <tbody>
         <tr>
             <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td></td>
         </tr>
     </tbody>
 </table>
