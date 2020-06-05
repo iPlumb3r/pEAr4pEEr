@@ -60,7 +60,7 @@
     <tbody>
         <tr>
             <td>Bla bla</td>
-            <td>Un processus métier, n'est pas un concept en soit, mais plûtot un ensemble de concepts en inter-relation les uns avec les autres.</td>
+            <td>Un processus métier, n'est pas une notion élémentaire en soit, mais plûtot un ensemble de notions en inter-relation les uns avec les autres et formant un réseau sémantique.</td>
         </tr>
     </tbody>
 </table>
