@@ -43,8 +43,8 @@
     </thead>
     <tbody>
         <tr>
-            <td>A set of "things to be achieved" expressed independently of "how they are to be achieved".</td>
-            <td>Ensemble de "choses à réaliser" exprimées de manière indépendante de la "manière de les réaliser".</td>
+            <td>A set of "things to be achieved" (usualy by one or several particular <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessConcept.md">#BusinessConcept</a>) ; expressed independently of "how they are to be achieved".</td>
+            <td>Ensemble de "choses à réaliser" (généralement par un ou plusieurs <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessConcept.md">#BusinessConcept</a> particulier) ; exprimées de manière indépendante de la "manière de les réaliser".</td>
         </tr>
     </tbody>
 </table>
