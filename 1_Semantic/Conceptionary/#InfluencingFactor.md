@@ -77,8 +77,12 @@ Some examples :
     </thead>
     <tbody>
         <tr>
-            <td>Presence of "Single Point Of Failure"</td>
-            <td>Présence de "Point Unique de Défaillance"</td>
+            <td>Presence of "Single Point Of Failure".</td>
+            <td>Présence de "Point Unique de Défaillance".</td>
+        </tr>
+        <tr>
+            <td>Do not garanty data privacy.</td>
+            <td>Ne pas garantir la confidentialité des données.</td>
         </tr>
         </tr>
     </tbody>
