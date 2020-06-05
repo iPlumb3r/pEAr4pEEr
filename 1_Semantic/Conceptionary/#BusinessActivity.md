@@ -11,8 +11,8 @@
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Business actvity</td>
+            <td>Activité métier</td>
         </tr>
     </tbody>
 </table>
@@ -27,8 +27,8 @@
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
     </tbody>
 </table>
@@ -44,7 +44,7 @@
     <tbody>
         <tr>
             <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Ensemble de "choses à réaliser" exprimé de manière indépendante de la façon de les réaliser</td>
         </tr>
     </tbody>
 </table>
