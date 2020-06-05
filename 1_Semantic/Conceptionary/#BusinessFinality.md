@@ -8,7 +8,7 @@
             <th>French</th>
         </tr>
     </thead>
-    <tbody>
+    <tbody> 
         <tr>
             <td>Business finality</td>
             <td>Finalité métier</td>
