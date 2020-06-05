@@ -26,8 +26,8 @@
     </thead>
     <tbody>
         <tr>
-            <td>Business goal</td>
-            <td>But métier</td>
+            <td>Influancing factor</td>
+            <td>Facteur influançant</td>
         </tr>
     </tbody>
 </table>
@@ -42,8 +42,8 @@
     </thead>
     <tbody>
         <tr>
-            <td>Element that defines "where we want to go".</td>
-            <td>Elément qui défini "là où l'on veut aller"</td>
+            <td>They represent the characteristics of the environment that we have to "fight" against.</td>
+            <td>Ils représentent les caractéristiques de l'environnement contre lesquelles ont doit "lutter"</td>
         </tr>
     </tbody>
 </table>
@@ -58,8 +58,8 @@
     </thead>
     <tbody>
         <tr>
-            <td>Could be an unquantified goal or a quantified objective.</td>
-            <td>Peut-etre un but non quantifié ou un objectif quantifié.</td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
