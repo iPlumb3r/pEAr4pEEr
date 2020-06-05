@@ -44,7 +44,7 @@
     <tbody>
         <tr>
             <td>Bla bla</td>
-            <td>Ensemble de "choses à réaliser" exprimé de manière indépendante de la façon de les réaliser</td>
+            <td>Ensemble de "choses à réaliser" exprimées de manière indépendante de la façon de les réaliser</td>
         </tr>
     </tbody>
 </table>
