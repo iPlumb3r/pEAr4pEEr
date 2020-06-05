@@ -3,7 +3,7 @@
 ## Business Why
 * <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessFinality.md">#BusinessFinality</a>.   
 * <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23InfluencingFactor.md">#InfluencingFactor</a>.  
-* <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinesInitiative.md">#BusinessInitiative</a>.   
+* <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessInitiative.md">#BusinessInitiative</a>.   
 
 ## Business What
 
