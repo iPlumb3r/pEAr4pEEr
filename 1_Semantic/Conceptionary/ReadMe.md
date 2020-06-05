@@ -2,8 +2,8 @@
 
 ## Business Why
 * <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinesFinality.md">#BusinessFinality</a>.   
-* #InfluencingFactor.      
-* #BusinessInitiative.  
+* * <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23InfluencingFactor.md">#InfluencingFactor/a>.  
+* <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinesInitiative.md">#BusinessInitiative</a>.   
 
 ## Business What
 
