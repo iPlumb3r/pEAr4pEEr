@@ -11,7 +11,7 @@
     </thead>
     <tbody>
         <tr>
-            <td>Business process/td>
+            <td>Business process</td>
             <td>Processus métier</td>
         </tr>
     </tbody>
@@ -27,8 +27,8 @@
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td></td>
+            <td>-</td>
+            <td>-</td>
         </tr>
     </tbody>
 </table>
