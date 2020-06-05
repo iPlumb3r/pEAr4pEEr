@@ -115,4 +115,4 @@ Some examples :
 
 ## Illustration
 
-![BusinessProcess](https://github.com/iPlumb3r/pEAr4pEEr/blob/master/images/BusinessProcess.png)
+![BusinessProcess](https://github.com/iPlumb3r/pEAr4pEEr/blob/master/images/BusinessProcess_2020-05-05.png)
