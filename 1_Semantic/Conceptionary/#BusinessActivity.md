@@ -43,8 +43,8 @@
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Ensemble de "choses à réaliser" exprimées de manière indépendante de la façon de les réaliser.</td>
+            <td>A set of "things to be achieved" expressed independently of "how they are to be achieved".</td>
+            <td>Ensemble de "choses à réaliser" exprimées de manière indépendante de la "manière de les réaliser".</td>
         </tr>
     </tbody>
 </table>
@@ -59,7 +59,7 @@
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
+            <td>They are linked through the production and/or consumption of <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessConcept.md">#BusinessConcept</a> (= <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessObject.md">#BusinessObject</a> et/ou <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessSubject.md">#BusinessSubject</a>) in order to constitute a <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessProcess.md">#BusinessProcess</a>.</td>
             <td>Elles s'enchainent via la production et/ou la consomation de <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessConcept.md">#BusinessConcept</a> (= <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessObject.md">#BusinessObject</a> et/ou <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessSubject.md">#BusinessSubject</a>) pour former un <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessProcess.md">#BusinessProcess</a>.</td>
         </tr>
     </tbody>
