@@ -77,16 +77,15 @@ Some examples :
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Person (documented by "Passport")</td>
+            <td>Personne (documenté par un "Passeport")</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>As Required Product/Service (represented by "Requirement specification")</td>
+            <td>Prodcuit/Service tel que requis (représenté par un "Cahier des Charges")</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-        </tr>
+            <td>As To Be Build Product/Service (represented by "Technical sheet")</td>
+            <td>Prodcuit/Service tel que à fabriquer (représenté par une "Fiche technique")</td>
     </tbody>
 </table>
