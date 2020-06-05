@@ -71,22 +71,30 @@ Some examples :
 <table>
     <thead>
         <tr>
-            <th>Individual</th>
-            <th>Type</th>
+            <th>English</th>
+            <th>French</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Organizing the industrial tool.</td>
+            <td>Organiser l’outil industriel.</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Verify the conception of a product.</td>
+            <td>Vérifier la conception d’un produit.</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Validate the 3D geometry of a product.</td>
+            <td>Valider la géométrie 3D du produit.</td>
+        </tr>
+        <tr>
+            <td>Approving a raw material.</td>
+            <td>Homologuer une matière première.</td>
+        </tr>
+        <tr>
+            <td>Plan manufacturing.</td>
+            <td>Planifier la fabrication.</td>
         </tr>
     </tbody>
 </table>
