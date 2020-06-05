@@ -44,7 +44,7 @@
     <tbody>
         <tr>
             <td>True "center of interest" of a given knowledge domain.</td>
-            <td>Véritable "centre d'intérêt" d'un domain de connaissance donnée;</td>
+            <td>Véritable "centre d'intérêt" d'un domaine de connaissance donnée;</td>
         </tr>
     </tbody>
 </table>
