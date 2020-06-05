@@ -1,7 +1,7 @@
 # Conceptionary
 
 ## Business Why
-* #BusinessFinality.  
+* <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinesFinality.md">#BusinessFinality</a>.   
 * #InfluencingFactor.      
 * #BusinessInitiative.  
 
