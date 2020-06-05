@@ -11,7 +11,7 @@
     <tbody>
         <tr>
             <td>Business finality</td>
-            <td>Finalité métier/td>
+            <td>Finalité métier</td>
         </tr>
     </tbody>
 </table>
