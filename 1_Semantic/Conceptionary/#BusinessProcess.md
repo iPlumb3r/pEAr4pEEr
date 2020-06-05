@@ -75,22 +75,14 @@ Some examples :
 <table>
     <thead>
         <tr>
-            <th>Individual</th>
-            <th>Type</th>
+            <th>English</th>
+            <th>French</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
+            <td>Process of design, industrialization and manufacturing of a product</td>
+            <td>Processus de conception, industrialisation et fabrication d'un produit</td>
         </tr>
     </tbody>
 </table>
