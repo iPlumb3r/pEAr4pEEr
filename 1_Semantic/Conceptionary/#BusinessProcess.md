@@ -11,8 +11,8 @@
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Business process/td>
+            <td>Processus métier</td>
         </tr>
     </tbody>
 </table>
@@ -28,7 +28,7 @@
     <tbody>
         <tr>
             <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Réseaux sémantique incarné par un ensemble de #BusinessActivity qui produisent et/ou consomment des #BusinessConcept (= #BusinessObject et/ou #BuisnessSubject).</td>
         </tr>
     </tbody>
 </table>
@@ -44,7 +44,7 @@
     <tbody>
         <tr>
             <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Un processus métier, n'est pas un concept en soit, mais plûtot un ensemble de concepts en inter-relation les uns avec les autres.</td>
         </tr>
     </tbody>
 </table>
@@ -90,3 +90,25 @@ Some examples :
         </tr>
     </tbody>
 </table>
+
+## References
+
+<table>
+    <thead>
+        <tr>
+            <th>English</th>
+            <th>French</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://www.linkedin.com/pulse/7-golden-rules-describing-business-processes-bernard-chabot/">7 Golden Rules for describing Business Processes</a></td>
+            <td><a href="https://www.linkedin.com/pulse/7-r%C3%A8gles-dor-pour-d%C3%A9crire-des-processus-m%C3%A9tiers-bernard-chabot/">7 règles d'or pour décrire des Processus Métiers</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://www.linkedin.com/pulse/7-urban-legends-business-processes-bernard-chabot/">7 "Urban Legends" about Business Processes ...</a></td>
+            <td><a href="https://www.linkedin.com/pulse/7-id%C3%A9es-re%C3%A7ues-%C3%A0-propos-des-processus-m%C3%A9tiers-bernard-chabot/">7 idées reçues à propos des Processus Métiers ...</a></td>
+        </tr>
+    </tbody>
+</table>
+
