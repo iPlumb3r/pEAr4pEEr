@@ -42,8 +42,8 @@
     </thead>
     <tbody>
         <tr>
-            <td>Actions or principles of actions that will be put in place to : achieve one (or more) <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessFinality.md">#BusinessFinality</a> and/or counter one (or more) <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23InfluencingFactor.md">#InfluencingFactor</a>.</td>
-            <td>Actions or principes d'actions que l'on va mettre en place pour "à la fois" : atteindre une (ou plusieurs) <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessFinality.md">#BusinessFinality</a> et/ou contrer un (ou plusieurs) <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23InfluencingFactor.md">#InfluencingFactor</a>.</td>
+            <td>Actions or principles of action that will be put in place to : achieve one (or more) <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessFinality.md">#BusinessFinality</a> and/or counter one (or more) <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23InfluencingFactor.md">#InfluencingFactor</a>.</td>
+            <td>Actions or principes d'action que l'on va mettre en place pour "à la fois" : atteindre une (ou plusieurs) <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessFinality.md">#BusinessFinality</a> et/ou contrer un (ou plusieurs) <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23InfluencingFactor.md">#InfluencingFactor</a>.</td>
         </tr>
     </tbody>
 </table>
