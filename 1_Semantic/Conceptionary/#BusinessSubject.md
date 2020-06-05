@@ -59,7 +59,7 @@
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
+            <td>They are usually represented by 1 or more <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessObject.md">#BusinessObject</a>.</td>
             <td>Ils sont généralement représentés par 1 ou plusieurs <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessObject.md">#BusinessObject</a>.</td>
         </tr>
     </tbody>
@@ -71,8 +71,8 @@ Some examples :
 <table>
     <thead>
         <tr>
-            <th>Individual</th>
-            <th>Type</th>
+            <th>English</th>
+            <th>French</th>
         </tr>
     </thead>
     <tbody>
