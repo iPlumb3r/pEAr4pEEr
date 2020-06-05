@@ -58,8 +58,8 @@
     </thead>
     <tbody>
          <tr>
-            <td>Allows to justifies <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinesInitiative.md">#BusinessInitiative</a>.</td>
-            <td>Permet de justifier des <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinesInitiative.md">#BusinessInitiative</a>.</td>
+            <td>Allows to justifies <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessInitiative.md">#BusinessInitiative</a>.</td>
+            <td>Permet de justifier des <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessInitiative.md">#BusinessInitiative</a>.</td>
         </tr>
         <tr>
             <td>Could be an unquantified goal or a quantified objective.</td>
