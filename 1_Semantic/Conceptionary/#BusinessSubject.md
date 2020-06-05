@@ -11,8 +11,8 @@
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Business subject</td>
+            <td>Sujet métier</td>
         </tr>
     </tbody>
 </table>
@@ -27,8 +27,8 @@
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
@@ -43,8 +43,8 @@
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>True "center of interest" of a given knowledge domain.</td>
+            <td>Véritable "centre d'intérêt" d'un domain de connaissance donnée;</td>
         </tr>
     </tbody>
 </table>
@@ -60,7 +60,7 @@
     <tbody>
         <tr>
             <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Ils sont généralement représenter par 1 ou plusieurs <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessObject.md">#BusinessObject</a>.</td>
         </tr>
     </tbody>
 </table>
