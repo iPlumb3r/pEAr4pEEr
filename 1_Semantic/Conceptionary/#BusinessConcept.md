@@ -71,22 +71,30 @@ Some examples :
 <table>
     <thead>
         <tr>
-            <th>Individual</th>
-            <th>Type</th>
+            <th>English</th>
+            <th>French</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Person</td>
+            <td>Personne</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Organization</td>
+            <td>Organisation</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Passport</td>
+            <td>Passeport</td>
+        </tr>
+        <tr>
+            <td>Requirements specification</td>
+            <td>Cahier des charges</td>
+        </tr>
+        <tr>
+            <td>Technical sheet</td>
+            <td>Fiche technique</td>
         </tr>
     </tbody>
 </table>
