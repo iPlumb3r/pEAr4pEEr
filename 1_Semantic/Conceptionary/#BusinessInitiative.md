@@ -42,9 +42,8 @@
     </thead>
     <tbody>
         <tr>
-            <td>Principles of actions that will be put in place to "at the same time": achieve one (or more) business purpose(s) and/or counter one (or more) influencing factor(s).</td>
-            <td>Ce sont les principes d'actions que l'on va mettre en place pour "à la fois" : atteindre une (ou plusieurs) finalité(s) métier(s) et/ou contrer un (ou plusieurs) facteur(s) influançant(s)
-</td>
+            <td>Principles of actions that will be put in place to "at the same time": achieve one (or more) <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessFinality.md">#BusinessFinality</a> and/or counter one (or more) <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23InfluencingFactor.md">#InfluencingFactor</a>.</td>
+            <td>Ce sont les principes d'actions que l'on va mettre en place pour "à la fois" : atteindre une (ou plusieurs) <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessFinality.md">#BusinessFinality</a> et/ou contrer un (ou plusieurs) <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23InfluencingFactor.md">#InfluencingFactor</a>.</td>
         </tr>
     </tbody>
 </table>
