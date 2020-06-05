@@ -83,5 +83,9 @@ Some examples :
             <td>Increase resilience of the system.</td>
             <td>Améliorer la résilience du système. </td>
         </tr>
+        <tr>
+            <td>Share the govenance of the system.</td>
+            <td>Partager la gouvernance du système.</td>
+        </tr>
     </tbody>
 </table>
