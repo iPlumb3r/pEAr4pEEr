@@ -26,6 +26,8 @@ So, key "ingredients" to integrate in our own EA framework are :
 * Triz : Integrate the "Generic VS Specific" dichotomy
 * MDA & Merise : Use "Logical VS Technical" dichotomy (inside "Solution" concern)
 
+Meaning of each concerns
+-
 For a better understanding of the benchmark, here is a definition of each concern :
 ![alt text](https://github.com/iPlumb3r/pEAr4pEEr/blob/master/images/How_ConcernsDefinition_2020-03-24.png)
 
