@@ -42,8 +42,9 @@
     </thead>
     <tbody>
         <tr>
-            <td>Element that defines "where we want to go".</td>
-            <td>Elément qui défini "là où l'on veut aller"</td>
+            <td>Principles of actions that will be put in place to "at the same time": achieve one (or more) business purpose(s) and/or counter one (or more) influencing factor(s).</td>
+            <td>Ce sont les principes d'actions que l'on va mettre en place pour "à la fois" : atteindre une (ou plusieurs) finalité(s) métier(s) et/ou contrer un (ou plusieurs) facteur(s) influançant(s)
+</td>
         </tr>
     </tbody>
 </table>
@@ -58,8 +59,8 @@
     </thead>
     <tbody>
         <tr>
-            <td>Could be an unquantified goal or a quantified objective.</td>
-            <td>Peut-etre un but non quantifié ou un objectif quantifié.</td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
