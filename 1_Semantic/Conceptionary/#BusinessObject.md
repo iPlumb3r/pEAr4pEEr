@@ -43,7 +43,7 @@
     </thead>
     <tbody>
         <tr>
-            <td>Representations - usually documentary ones (=> Documentation) - of <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessSubject.md">#BusinessSubject</a>./td>
+            <td>Representations - usually documentary ones (=> Documentation) - of <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessSubject.md">#BusinessSubject</a>.</td>
             <td>Représentations - généralement documentaires (=> Documentation) - de <a href="https://github.com/iPlumb3r/pEAr4pEEr/blob/master/1_Semantic/Conceptionary/%23BusinessSubject.md">#BusinessSubject</a>.</td>
         </tr>
     </tbody>
