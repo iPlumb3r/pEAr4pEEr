@@ -1,7 +1,7 @@
 Motivations (Why ?)
 ==
 
-Synthesys
+Synthesis
 -
 4 key reasons for using an "Enterprise Architecture" (EA) framework
 ![alt text](https://github.com/iPlumb3r/pEAr4pEEr/blob/master/images/Overview_Why.png)
